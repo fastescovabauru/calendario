@@ -81,3 +81,6 @@ p.leg{font-size:.78rem;color:var(--ink-soft);margin:-6px 0 16px}p.leg .dt{margin
 .b-ok{background:var(--good);color:#fff}
 section.trf{background:#DCE8D6;color:#1d3320;border:1px solid #9fbb94;border-radius:14px;padding:14px 16px;margin-bottom:16px;font-size:.9rem}
 section.trf h2{font-size:1rem;margin-bottom:8px}section.trf ul{margin:0;padding-left:20px}section.trf li{margin-bottom:6px}section.trf .note{color:#2d4a30}
+.how table td{padding:4px 6px;border-bottom:1px solid var(--line);vertical-align:middle}
+.how code{font-size:.72rem;word-break:break-all}
+.how .copy{padding:5px 10px;font-size:.72rem}
