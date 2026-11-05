@@ -79,8 +79,15 @@ p.leg{font-size:.78rem;color:var(--ink-soft);margin:-6px 0 16px}p.leg .dt{margin
 .box.tr{background:#DCE8D6;color:#1d3320}
 .box.ar{background:var(--cream-3);color:var(--ink);border:1px dashed var(--ink-soft)}
 .b-ok{background:var(--good);color:#fff}
+.b-black{background:#1C1712;color:#FCDA00}
+.b-ang{background:#D5E8F2;color:#12384f}
+.box.artes{background:#FFF6C8;border-left:5px solid #E9C900}
+.art-it{margin-top:12px;padding-top:10px;border-top:1px dashed #d9c870}.art-it:first-of-type{border-top:0;padding-top:0}
+.art-t{font-weight:700;margin-bottom:6px}.art-t small{font-weight:400;opacity:.7}
+.art-it .dl{display:inline-block;margin-top:8px}
+details.box.ar summary{cursor:pointer}
+.nota{margin-top:10px;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:10px}
+.nota textarea{width:100%;font:inherit;font-size:.86rem;border:1px solid var(--line);border-radius:8px;padding:8px;background:var(--surface);color:var(--text);margin-top:6px;resize:vertical}
+.nota-bar{display:flex;align-items:center;gap:10px;margin-top:6px}.nota-st{font-size:.78rem;color:var(--good)}
 section.trf{background:#DCE8D6;color:#1d3320;border:1px solid #9fbb94;border-radius:14px;padding:14px 16px;margin-bottom:16px;font-size:.9rem}
 section.trf h2{font-size:1rem;margin-bottom:8px}section.trf ul{margin:0;padding-left:20px}section.trf li{margin-bottom:6px}section.trf .note{color:#2d4a30}
-.how table td{padding:4px 6px;border-bottom:1px solid var(--line);vertical-align:middle}
-.how code{font-size:.72rem;word-break:break-all}
-.how .copy{padding:5px 10px;font-size:.72rem}
