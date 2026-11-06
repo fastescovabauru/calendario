@@ -84,7 +84,7 @@ p.leg{font-size:.78rem;color:var(--ink-soft);margin:-6px 0 16px}p.leg .dt{margin
 .box.artes{background:#FFF6C8;border-left:5px solid #E9C900}
 .art-it{margin-top:12px;padding-top:10px;border-top:1px dashed #d9c870}.art-it:first-of-type{border-top:0;padding-top:0}
 .art-t{font-weight:700;margin-bottom:6px}.art-t small{font-weight:400;opacity:.7}
-.art-it .dl{display:inline-block;margin-top:8px}
+.art-it .dls{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}.art-it .dl.sm{display:inline-block;font-size:13px;padding:6px 12px;margin:0}
 details.box.ar summary{cursor:pointer}
 .nota{margin-top:10px;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:10px}
 .nota textarea{width:100%;font:inherit;font-size:.86rem;border:1px solid var(--line);border-radius:8px;padding:8px;background:var(--surface);color:var(--text);margin-top:6px;resize:vertical}
